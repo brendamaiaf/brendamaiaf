@@ -37,3 +37,8 @@ E o que mais for surgindo...
 
 <!-- Projeto principal, se eu quiser colocar. Dps é só mudar o nome para o repositório que eu quero mostrar - dps de repo=
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brendamaiaf&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+### Contato
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkeIn' height='30'>](https://www.linkedin.com/in/brenda-maia-franco-91144b78/)
+[<img src='https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white' alt='Outlook' height='30'>](bmf-franco@hotmail.com)
