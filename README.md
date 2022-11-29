@@ -1,4 +1,4 @@
-### Olá! Me chamo Brenda 👋
+### Oi oi 👋
 
 ## Um pouco sobre mim
 Atualmente, trabalho com a área artístico-cultural (editais, eventos, etc.). Também sou formada em tecnólogo em Gestão Ambiental pela UNINTER, técnico em Meio Ambiente pelo CEFET-MG e graduação em Engenharia Ambiental e Sanitária pela UFLA. Estou retomando os estudos em programação :)
