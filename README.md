@@ -1,4 +1,4 @@
-### Oi oi 👋
+### Olá! Me chamo Brenda 👋
 
 ## Um pouco sobre mim
 Atualmente, trabalho com a área artístico-cultural (editais, eventos, etc.). Também sou formada em tecnólogo em Gestão Ambiental pela UNINTER, técnico em Meio Ambiente pelo CEFET-MG e graduação em Engenharia Ambiental e Sanitária pela UFLA. Estou retomando os estudos em programação :)
@@ -34,3 +34,6 @@ E o que mais for surgindo...
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendamaiaf&show_icons=true&theme=dracula)
+
+<!-- Projeto principal, se eu quiser colocar. Dps é só mudar o nome para o repositório que eu quero mostrar - dps de repo=
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brendamaiaf&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
