@@ -1,7 +1,7 @@
 ### Oi oi 👋
 
 ## Um pouco sobre mim
-Atualmente, trabalho com a área artístico-cultural (editais, eventos, etc.). Também sou formada em tecnólogo em Gestão Ambiental pela UNINTER, técnico em Meio Ambiente pelo CEFET-MG e graduação em Engenharia Ambiental e Sanitária pela UFLA. Estou retomando os estudos em programação :)
+Atualmente, trabalho com a área artístico-cultural (editais, eventos, etc.). Também sou formada em tecnólogo em Gestão Ambiental pela UNINTER, pós-graduação em ESG (Gestão em Governança Corporativa Socioambiental) e, também, em Gestão de Projetos Ágeis. Estou retomando os estudos em programação :)
 
 ### O que eu já sei
 
